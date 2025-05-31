@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Defining the app's base theme, inheriting from Theme.AppCompat -->
+    <style name="Theme.AuthApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#c874b2</item> <!-- Red primary color -->
+        <item name="colorPrimaryDark">#7b337d</item> <!-- Darker red for status bar -->
+        <item name="colorAccent">#c874b2</item> <!-- Red accent for interactive elements -->
+        <item name="android:windowBackground">@android:color/white</item> <!-- White background -->
+    </style>
+</resources>

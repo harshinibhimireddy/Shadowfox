@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Simple Login</string>
+
+    <!-- Hints -->
+    <string name="email_hint">Enter Email</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+
+    <!-- Buttons -->
+    <string name="signup_button">Sign Up</string>
+    <string name="login_button">Login</string>
+    <string name="switch_to_login">Switch to Login</string>
+    <string name="switch_to_signup">Switch to Sign Up</string>
+
+    <!-- Toggle text -->
+    <string name="toggle_to_login">Already have an account?</string>
+    <string name="toggle_to_signup">Don\'t have an account?</string>
+
+    <!-- Validation messages -->
+    <string name="error_fill_all_fields">Please fill in all fields</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_invalid_email">Invalid Email Address</string>
+    <string name="error_pass_must_be_6">Password must be at least 6 characters!</string>
+    <string name="signup_success">Signup successful!</string>
+    <string name="login_success">Login successful!</string>
+    <string name="signup_failed">Signup failed. Please try again.</string>
+    <string name="login_failed">Login failed. Please try again.</string>
+    <string name="invalid_email_pass">Invalid email or password.</string>
+    <string name="no_acc_found">No account found. Please sign up first.</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+
+    <!-- Task input -->
+    <string name="enter_task_hint">What do you need to do?</string>
+    <string name="add_task">Add Task</string>
+
+    <!-- Task list -->
+    <string name="task_title">Untitled Task</string>
+    <string name="task_list_description">Your current tasks</string>
+    <string name="delete_task">Delete this task</string>
+
+    <string name="due_date">Due Date</string>
+
+    <string name="todo_list">To-Do List</string>
+
+
+</resources>
